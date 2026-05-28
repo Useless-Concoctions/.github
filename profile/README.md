@@ -1,1 +1,1 @@
-Building quirky, experimental, and uniquely useless open-source concoctions.
+Basically the coding equivilent of a "junk drawer".
